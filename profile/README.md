@@ -23,7 +23,7 @@ We love to develop hard and software that users like to use, where their interac
 
 *************
 
-### Tech Stack
+### //Tech Stack
 We are technology agnostic and believe in **using the most fitting tools** for a solution is more appropriate than the "one fits all" approach. 
 But some often used technologies are:
 
@@ -38,7 +38,6 @@ But some often used technologies are:
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/go.svg" alt="Golang" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/php.svg" alt="PHP" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/typescript.svg" alt="TypeScript" style="vertical-align:top margin:6px 4px">  
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:top margin:6px 4px">  
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/languages/csharp_dotnet.svg" alt="CSharp/.net" style="vertical-align:top margin:6px 4px">
@@ -51,7 +50,6 @@ But some often used technologies are:
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/flutter.svg" alt="Flutter" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/vue.svg" alt="VueJS" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/svelte.svg" alt="Svelte" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top margin:6px 4px">
 </p>
 
 <p align="center">
@@ -65,7 +63,6 @@ But some often used technologies are:
 <p align="center">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/jetbrains_goland.svg" alt="Goland" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="PHPStorm" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/powershell.svg" alt="PowerShell" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top margin:6px 4px">
