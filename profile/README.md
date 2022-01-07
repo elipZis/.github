@@ -59,11 +59,3 @@ But some often used technologies are:
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/services/dockerhub.svg" alt="Docker" style="vertical-align:top margin:6px 4px">
   <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/services/npm.svg" alt="NPM" style="vertical-align:top margin:6px 4px">
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/jetbrains_goland.svg" alt="Goland" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/jetbrains_phpstorm.svg" alt="PHPStorm" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/powershell.svg" alt="PowerShell" style="vertical-align:top margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/nea/nea/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top margin:6px 4px">
-</p>
