@@ -9,7 +9,7 @@
 👋 We are [elipZis](https://elipZis.com) - Digitisation Natives providing solutions with Nordic calm ❄
 
 ### //Get IT done!
-[elipZis](https://elipZis.com) is an Digital Agency located in the hanseatic city of [Bremen](https://www.bremen.de/) that creates software solutions for practitioners.
+[elipZis](https://elipZis.com) is a Digital Agency located in the hanseatic city of [Bremen](https://www.bremen.de/) that creates software solutions for practitioners.
 
 *************
 
