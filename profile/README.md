@@ -15,7 +15,7 @@
 
 *************
 
-### //Tech Stack
+### We 💜 Tech
 We are technology agnostic and believe in **using the most fitting tools** for a solution is more appropriate than the "one fits all" approach. 
 But some often used technologies are:
 
