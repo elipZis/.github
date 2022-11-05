@@ -6,10 +6,12 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-👋 We are [elipZis](https://elipZis.com) - Digitisation Natives providing solutions with Nordic calm ❄
+👋 We are [elipZis](https://elipZis.com) - More Solutions & Less Buzzwords - What you need is what you get! Software to the point...
 
-### //Get IT done!
-[elipZis](https://elipZis.com) is a Digital Agency located in the hanseatic city of [Bremen](https://www.bremen.de/) that creates software solutions for practitioners.
+### Digitisation Natives providing solutions with Nordic calm ❄
+[elipZis](https://elipZis.com) is a Soft- & Hardware developing Digitisation Studio located in the hanseatic city of Bremen which creates solutions without the buzzwords.
+
+⌨️ We are Keyboard Coybows! We empower people & businesses to improve their daily (work) life by supporting and optimizing processes, interfaces and systems.
 
 *************
 
