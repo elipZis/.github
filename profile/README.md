@@ -9,7 +9,7 @@
 👋 We are [elipZis](https://elipZis.com) - More Solutions & Less Buzzwords - What you need is what you get! Software to the point...
 
 ### Digitisation Natives providing solutions with Nordic calm ❄
-[elipZis](https://elipZis.com) is a Soft- & Hardware developing Digitisation Studio located in the hanseatic city of Bremen which creates solutions without the buzzwords.
+[elipZis](https://elipZis.com) is a Software developing digitalization Studio located in the hanseatic city of Bremen which creates solutions without the buzzwords.
 
 ⌨️ We are Keyboard Coybows! We empower people & businesses to improve their daily (work) life by supporting and optimizing processes, interfaces and systems.
 
